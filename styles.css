@@ -1,0 +1,154 @@
+h1{
+    text-align: center;
+    color: rgb(55, 0, 255);
+}
+h2{
+     color: blue;
+}
+nav a{
+    background-color: #004080;
+    color: aqua;
+    padding: 3px;
+    border-radius: 10px;
+    margin: 10px;
+    text-decoration: none;
+}
+body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+            
+        }
+
+nav {
+   
+    background-color: #004080;
+   
+    gap: 30px;
+    padding: 20px 0;
+   
+    
+}
+
+
+h4 {
+    color: #004080;
+    text-align: left;
+}
+
+nav:hover {
+box-shadow: 3px 3px 3px purple;
+transition:2s ease-out ;
+
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+   
+    padding: 10px 20px;
+    border-radius: 8px;
+   
+}
+
+       
+
+        header {
+            text-align: center;
+            padding: 30px 20px;
+            background: linear-gradient(to right, #004080, #0066cc);
+            color: white;
+        }
+
+        header img {
+            
+            height: auto;
+            border-radius: 10px;
+            margin: 15px 0;
+           
+        }
+
+        main {
+            
+            margin: 30px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 12px;
+           
+        }
+
+        main h1, main h2, h3 {
+            color: #004080;
+        }
+
+        main h2 {
+            border-left: 5px solid #ffcc00;
+            padding-left: 10px;
+            margin-top: 30px;
+        }
+
+        main img {
+           
+            margin: 10px auto;
+           
+            height: auto;
+            border-radius: 10px;
+            
+        }
+
+        footer {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 40px;
+        }
+
+        footer p {
+            margin: 5px 0;
+        }
+        
+            table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #0011ff;
+  text-align: left;
+  
+}
+
+thead {
+  background-color:#0011ff ;
+}
+
+tr:hover {
+  background-color:#0011ff ;
+  transition: 2s ease-out; 
+  box-shadow: 3px 3px 3px lightcoral;
+ 
+}
+nav a {
+    border-radius: 10px;
+    background-color: white;
+    color:blue ;
+   
+} 
+
+nav a:hover {
+    color: white;
+    background-color: blue;
+    transition: 1s ease-out;
+}
+
+main img:hover {
+    transition: 1s ease-out;
+   border:2px solid green ;
+}
+
